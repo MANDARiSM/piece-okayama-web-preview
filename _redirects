@@ -1,0 +1,15 @@
+# 旧Shopify URL → 新URL（本番=Cloudflare Pages で有効。GitHub Pages では参照されない）
+/collections/newborn          /age-stages/newborn/   301
+/collections/toddler          /age-stages/toddler/   301
+/collections/school           /age-stages/school/    301
+/collections/middle           /age-stages/middle/    301
+/products/first-consultation  /first/                301
+/pages/contact                /contact/              301
+/pages/faq                    /faq/                  301
+/pages/staff                  /about/                301
+/pages/company-profile        /company/              301
+/pages/tie-up                 /for-partners/         301
+/policies/privacy-policy      /privacy/              301
+/collections/all              /find-service/         301
+/blogs/news                   /                      301
+/cart                         /                      301
